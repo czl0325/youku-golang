@@ -41,6 +41,9 @@
         <i class="iconfont icon-bangzhushouji" />
         <span>客户端</span>
       </button>
+      <router-link to="login" >
+        <el-image :src="require('../assets/icon_avatar.png')" style="width: 50px;height: 50px;"/>
+      </router-link>
     </div>
   </div>
 </template>
