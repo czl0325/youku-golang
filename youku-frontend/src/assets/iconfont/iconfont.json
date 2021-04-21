@@ -1,0 +1,44 @@
+{
+  "id": "2502315",
+  "name": "youku",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "913699",
+      "name": "客户端",
+      "font_class": "bangzhushouji",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "1504340",
+      "name": "上传",
+      "font_class": "shangchuan",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "9974759",
+      "name": "关注",
+      "font_class": "guanzhu",
+      "unicode": "e710",
+      "unicode_decimal": 59152
+    },
+    {
+      "icon_id": "14629145",
+      "name": "clock",
+      "font_class": "clock",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "2155718",
+      "name": "hot",
+      "font_class": "hot",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    }
+  ]
+}
